@@ -1,7 +1,3 @@
----
-layout: home
----
-
 ## hi i'm nimo👋
 
 🌆 Seattle, WA  

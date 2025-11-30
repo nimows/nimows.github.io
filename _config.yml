@@ -1,7 +1,4 @@
 title: FRONTIERS (working title) devlog
 description: chronicling the development of my grand design
 
-remote_theme: pages-themes/tactile@v0.2.0
-
-plugins:
-  - jekyll-remote-theme
+theme: jekyll-theme-cayman

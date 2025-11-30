@@ -4,7 +4,7 @@
 🔭 Physics/Astronomy BSc. (in progress)  
 💻 Building a game in my spare time.  
 
-❤️
+🌐 [nimo.ws (homepage)](https://nimo.ws/)
 
 <!--
 **nimows/nimows** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

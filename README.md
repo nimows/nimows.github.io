@@ -1,8 +1,8 @@
 ## hi i'm nimo👋
 
-🌆 Seattle, WA
-🔭 Physics/Astronomy BSc. (in progress)
-💻 Building a game in my spare time.
+🌆 Seattle, WA  
+🔭 Physics/Astronomy BSc. (in progress)  
+💻 Building a game in my spare time.  
 
 ❤️
 

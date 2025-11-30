@@ -2,7 +2,7 @@
 
 🌆 Seattle, WA  
 🔭 Physics/Astronomy BSc. (in progress)  
-💻 Building a game in my spare time.  
+💻 Building [a game](https://nimows.github.com/) in my spare time.  
 
 🌐 [nimo.ws (homepage)](https://nimo.ws/)
 

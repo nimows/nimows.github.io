@@ -1,7 +1,11 @@
-## hi i'm nimo👋
-
 🌆 Seattle, WA  
 🔭 Physics/Astronomy BSc. (in progress)  
 💻 Building [a game](https://nimows.github.io/) in my spare time.  
 
 🌐 Check out my [personal homepage](https://nimo.ws/).
+
+## Posts
+
+{% for post in site.posts %}
+- [{{ post.title }}]({{ post.url }}) - {{ post.date | date: "%b %d, %Y" }}
+{% endfor %}

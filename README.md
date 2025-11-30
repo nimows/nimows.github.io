@@ -1,11 +1,1 @@
----
-layout: home
----
-
-## hi i'm nimo👋
-
-🌆 Seattle, WA  
-🔭 Physics/Astronomy BSc. (in progress)  
-💻 Building [a game](https://nimows.github.io/) in my spare time.  
-
-🌐 Check out my [personal homepage](https://nimo.ws/).
+## README.md
